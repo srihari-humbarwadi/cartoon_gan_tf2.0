@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/srihari-humbarwadi/cartoon_gan_tf20.svg)](http://hits.dwyl.io/srihari-humbarwadi/cartoon_gan_tf20)
+
 ## Implementation details
  - Dataset : cartoon100k
  - batch_size : 64
