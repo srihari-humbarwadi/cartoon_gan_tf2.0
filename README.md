@@ -1,7 +1,7 @@
 [![HitCount](http://hits.dwyl.io/srihari-humbarwadi/cartoon_gan_tf20.svg)](http://hits.dwyl.io/srihari-humbarwadi/cartoon_gan_tf20)
 
 ## Implementation details
- - Dataset : cartoon100k
+ - Dataset : [https://google.github.io/cartoonset](https://google.github.io/cartoonset)
  - batch_size : 64
  - H, W = [256, 256]
  - Discrminator_lr = 0.00025
