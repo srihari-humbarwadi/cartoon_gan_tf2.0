@@ -100,7 +100,7 @@ def build_discriminator():
         image_input, num_filters=f[0] * filters, kernel_size=5, strides=2, bn=False)
     for i in range(1, 4):
         x = conv_block(x,
-                       num_filters=f[0] * filters,
+                       num_filters=f[i] * filters,
                        kernel_size=5,
                        strides=2,
                        bn=True)
