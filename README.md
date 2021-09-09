@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.io/srihari-humbarwadi/cartoon_gan_tf20.svg)](http://hits.dwyl.io/srihari-humbarwadi/cartoon_gan_tf20)
-
 ## Implementation details
  - Dataset : [https://google.github.io/cartoonset](https://google.github.io/cartoonset)
  - batch_size : 64
